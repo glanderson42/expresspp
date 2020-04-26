@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vmark/CLionProjects/webserver/http/utils/request/connection_type.hpp
+
+/Users/vmark/CLionProjects/webserver/http/utils/request/functions.cpp
+vector
+-
+functions.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/functions.hpp
+request_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/request_type.hpp
+request.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/request.hpp
+connection_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/connection_type.hpp
+
+/Users/vmark/CLionProjects/webserver/http/utils/request/functions.hpp
+string
+-
+vector
+-
+request.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/request.hpp
+request_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/request_type.hpp
+connection_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/connection_type.hpp
+
+/Users/vmark/CLionProjects/webserver/http/utils/request/request.hpp
+string
+-
+iostream
+-
+request_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/request_type.hpp
+connection_type.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/request/connection_type.hpp
+
+/Users/vmark/CLionProjects/webserver/http/utils/request/request_type.hpp
+

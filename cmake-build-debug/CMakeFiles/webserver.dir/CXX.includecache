@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vmark/CLionProjects/webserver/main.cpp
+cstdio
+-
+webserver/webserver.hpp
+/Users/vmark/CLionProjects/webserver/webserver/webserver.hpp
+
+/Users/vmark/CLionProjects/webserver/webserver/webserver.hpp
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+iostream
+-
+

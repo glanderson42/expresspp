@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vmark/CLionProjects/webserver/http/utils/response/response.cpp
+response.hpp
+/Users/vmark/CLionProjects/webserver/http/utils/response/response.hpp
+
+/Users/vmark/CLionProjects/webserver/http/utils/response/response.hpp
+
