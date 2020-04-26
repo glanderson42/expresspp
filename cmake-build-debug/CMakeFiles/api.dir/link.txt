@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libapi.a  CMakeFiles/api.dir/http/server.cpp.o CMakeFiles/api.dir/http/utils/request_parser.cpp.o CMakeFiles/api.dir/http/utils/request.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libapi.a

@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libhttp_request_utils.a  CMakeFiles/http_request_utils.dir/http/utils/request/request.cpp.o CMakeFiles/http_request_utils.dir/http/utils/request/functions.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libhttp_request_utils.a

@@ -1,6 +1,0 @@
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/http_server.dir
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/http_response_utils.dir
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/http.dir
-/Users/vmark/CLionProjects/webserver/cmake-build-debug/CMakeFiles/http_request_utils.dir
