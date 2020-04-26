@@ -27,8 +27,7 @@ http::utils::request::request http::utils::request::request_parser(char* raw_buf
     return request(type, connection, std::move(url));
 }
 
-size_t http::utils::request::split(const std::string& buffer, std::vector<std::string>& strings, char ch)
-{
+size_t http::utils::request::split(const std::string& buffer, std::vector<std::string>& strings, char ch) {
     size_t pos = buffer.find( ch );
     size_t initialPos = 0;
     strings.clear();

@@ -20,6 +20,9 @@ private:
     std::string url;
 public:
     request(request_type type, connection_type connection, std::string&& url);
+    request_type get_request_type();
+    connection_type get_connection();
+    std::string get_url();
 };
 
 }

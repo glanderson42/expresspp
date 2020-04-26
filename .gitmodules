@@ -1,0 +1,6 @@
+[submodule "http/deps/json"]
+	path = http/deps/json
+	url = https://github.com/nlohmann/json
+[submodule "http/deps/fmt"]
+	path = http/deps/fmt
+	url = https://github.com/fmtlib/fmt

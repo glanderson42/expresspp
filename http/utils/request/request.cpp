@@ -13,3 +13,15 @@ http::utils::request::request::request(
     , connection(connection)
     , url(url)
     {}
+
+http::utils::request::request_type http::utils::request::request::get_request_type() {
+    return this->type;
+}
+
+http::utils::request::connection_type http::utils::request::request::get_connection() {
+    return this->connection;
+}
+
+std::string http::utils::request::request::get_url() {
+    return this->url;
+}
